@@ -19,7 +19,6 @@ public class EjercicioA {
         System.out.println("Hola Retador");
         System.out.println("Hola Profesor");
         System.out.println("Hola tutu");
-        System.out.println("Hola Profesor");
-    }
+        System.out.println("Hola Robin");
     }
 }
